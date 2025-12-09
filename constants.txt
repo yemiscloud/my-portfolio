@@ -1,0 +1,18 @@
+
+
+{
+    id: 'market-basket',
+    title: 'Market Basket Analysis',
+    description: 'Association analysis to discover product affinities and inform bundling and recommendation logic.',
+    category: 'Data & BI',
+    imageUrl: 'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2670&auto=format&fit=crop',
+    techStack: ["SQL", "Excel", "Power BI"],
+    tagline: "Affinity & cross-sell insights for ecommerce",
+    summary: "Association analysis to discover product affinities and inform bundling and recommendation logic.",
+    kpis: ["Lift & Confidence", "Bundle Revenue Uplift Estimate"],
+    details: "Calculated association rules in SQL and summarized results in Power BI. Presented recommended bundling strategies and expected revenue impact.",
+    hasDashboard: true,
+    dashboardImages: [
+      "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2670&auto=format&fit=crop"
+    ]
+  }
